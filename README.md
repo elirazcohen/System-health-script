@@ -47,4 +47,4 @@ The log file is automatically trimmed to the last 1000 lines if it exceeds 5MB, 
 
 Author
 Eliraz Cohen
-Self-taught sysadmin enthusiast. Built this toolkit to understand how Windows systems and networks actually work — not just how to click through GUIs.
+Self-taught sysadmin enthusiast. Built this toolkit to understand how Windows systems actually work not just how to click through GUIs.
